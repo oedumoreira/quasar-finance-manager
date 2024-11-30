@@ -1,5 +1,11 @@
 /* app global css */
+@import "@fortawesome/fontawesome-free/css/all.css";
+
 
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.font-sans {
+    font-family: Open Sans;
+}
